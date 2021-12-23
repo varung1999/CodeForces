@@ -1,6 +1,7 @@
 //https://codeforces.com/problemset/problem/263/A
 //author: Varun Gollapalli
 
+
 import java.util.*;
 public class BeautifulMatrix {
 
